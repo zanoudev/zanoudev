@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zanoudev
-- 👀 I’m interested in Web design and making cozy designs
+- 👀 I’m interested in Web design
 - 🌱 I’m currently fueling my creativity with copious amounts of decaf coffee (and maybe a sprinkle of existential dread).
-- 📫 How to reach me: Carrier pigeon preferred, but carrier signals and smoke signals are also acceptable.
 - ⚡ Fun fact: ... yeah no I'm still looking
 
 <!---
