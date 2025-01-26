@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zanoudev
-- 👀 I’m interested in Web design
+- 👀 I’m interested in Web design and UX
 - 🌱 I’m currently fueling my creativity with copious amounts of decaf coffee (and maybe a sprinkle of existential dread)
 
 <!---
