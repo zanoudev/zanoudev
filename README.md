@@ -23,7 +23,7 @@ FastAPI (as an alternative to Flask for creating APIs)
 
 I'm always looking to collaborate on interesting projects!
 
-
+<!---
 ### working with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -53,5 +53,7 @@ I'm always looking to collaborate on interesting projects!
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
+
+--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
